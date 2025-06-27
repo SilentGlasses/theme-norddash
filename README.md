@@ -1,2 +1,2 @@
-# theme-norddash
+# NordDash
 Nord-themed interface for OPNsense
